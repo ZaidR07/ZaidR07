@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zaid Rahman</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, We are T-Rex Infotech</h1>
+<h3 align="center">Software and Digital  Marketing Company in Mumbai</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidr07" alt="zaidr07" /></a> </p>
 
